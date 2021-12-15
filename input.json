@@ -1,0 +1,32 @@
+{
+
+"to":
+
+[
+
+],
+
+
+"unrs":
+
+[
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 75,"freezed": false,"id": 0,"letter": "S-5913","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 3,"rebuild": null,"section": "1550/1500","start": 1626278400,"steel_mark": "3СП","un": 5,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 75,"freezed": false,"id": 1,"letter": "S-5925,5979","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 10,"rebuild": null,"section": "1550/1500","start": 1626315300,"steel_mark": "09Г2С","un": 5,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 70,"freezed": false,"id": 2,"letter": "S-5956","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 6,"rebuild": null,"section": "1080/1420","start": 1626289200,"steel_mark": "2ПС","un": 7,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 60,"freezed": false,"id": 3,"letter": "S-5960","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 7,"rebuild": null,"section": "1120/1560","start": 1626336000,"steel_mark": "09Г2С","un": 7,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 30,"freezed": false,"id": 4,"letter": "S-5795","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 9,"rebuild": null,"section": "1560/1660","start": 1626279600,"steel_mark": "09Г2С","un": 8,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 42,"freezed": false,"id": 5,"letter": "S-5957","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 12,"rebuild": null,"section": "1120","start": 1626306600,"steel_mark": "0504Д","un": 8,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 30,"freezed": false,"id": 6,"letter": "S-5963,5964,5965,5968,5950","index": 5,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 27,"rebuild": null,"section": "1190_1240_1280","start": 1626280200,"steel_mark": "08Ю,2ПС","un": 9,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true},
+
+{"assortment": "НУ (08Ю и аналоги)","cycle": 30,"freezed": false,"id": 7,"letter": "S-5966,5961","index": 1,"mail": "","max_vyd": 120,"min_vyd": 60,"num": 11,"rebuild": null,"section": "1400_1370-2250","start": 1626341400,"steel_mark": "08ПС,2ПС","un": 9,"calc_vyd": "","Smax_udch": 0,"indexOffset": 0,"trip1": "","fake_stan":false,"fake_stan":true}
+
+]
+
+}
